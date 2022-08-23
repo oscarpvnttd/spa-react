@@ -1,0 +1,26 @@
+
+nav{
+  background-color: black;
+  padding: 1.5rem !important;
+}
+
+#logo{
+  width: 69px;
+}
+
+li{
+  color: whites;
+}
+
+a{
+  color: white;
+}
+
+a:hover{
+  color: red;
+}
+
+.nav-item{
+  font-family: "Strait",sans-serif;
+  font-size: 20px;
+}
